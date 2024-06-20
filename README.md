@@ -1,4 +1,4 @@
-# amortizacion
+
 # Proyecto: Aplicación de Amortización
 
 ## Descripción
